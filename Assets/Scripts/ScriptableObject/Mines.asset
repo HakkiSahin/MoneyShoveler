@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cff17ae0e8fa4b478a677d55f87c78e, type: 3}
+  m_Name: Mines
+  m_EditorClassIdentifier: 
+  minesList:
+  - mineName: Shiba
+    mineValue: 10
+    mineMaterial: {fileID: 2100000, guid: b833adb45965f2640aef7b912e966efe, type: 2}
+  - mineName: Dollar
+    mineValue: 11
+    mineMaterial: {fileID: 2100000, guid: e095e7e0cac88dd468fe80ae1903b9fc, type: 2}
+  - mineName: Bitcoin
+    mineValue: 12
+    mineMaterial: {fileID: 2100000, guid: 8d5ab145037b8c249a3426252ef40136, type: 2}
+  - mineName: Coin
+    mineValue: 13
+    mineMaterial: {fileID: 2100000, guid: cada1383dd91e4349a50f4c3df195145, type: 2}
+  - mineName: Gold
+    mineValue: 14
+    mineMaterial: {fileID: 2100000, guid: 39b6154b0315d3743af7a5125aaf780a, type: 2}
